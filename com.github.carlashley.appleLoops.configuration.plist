@@ -34,6 +34,7 @@
 				<string>logicpro1030.plist</string>
 				<string>logicpro1032.plist</string>
 				<string>logicpro1040.plist</string>
+				<string>logicpro1042.plist</string>
 			</array>
 		</dict>
 		<key>mainstage</key>
@@ -47,6 +48,7 @@
 				<string>mainstage323.plist</string>
 				<string>mainstage324.plist</string>
 				<string>mainstage330.plist</string>
+				<string>mainstage340.plist</string>
 			</array>
 		</dict>
 	</dict>

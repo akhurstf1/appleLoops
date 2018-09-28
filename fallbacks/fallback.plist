@@ -12,6 +12,8 @@
 	<string>https://raw.githubusercontent.com/carlashley/appleLoops/master/lp10_ms3_content_2016/garageband1016.plist</string>
 	<key>garageband1020.plist</key>
 	<string>https://raw.githubusercontent.com/carlashley/appleLoops/master/lp10_ms3_content_2016/garageband1020.plist</string>
+	<key>garageband1021.plist</key>
+	<string>https://raw.githubusercontent.com/carlashley/appleLoops/master/lp10_ms3_content_2016/garageband1021.plist</string>
 	<key>logicpro1021.plist</key>
 	<string>https://raw.githubusercontent.com/carlashley/appleLoops/master/lp10_ms3_content_2016/logicpro1021.plist</string>
 	<key>logicpro1022.plist</key>
@@ -24,11 +26,15 @@
 	<string>https://raw.githubusercontent.com/carlashley/appleLoops/master/lp10_ms3_content_2016/logicpro1032.plist</string>
 	<key>logicpro1040.plist</key>
 	<string>https://raw.githubusercontent.com/carlashley/appleLoops/master/lp10_ms3_content_2016/logicpro1040.plist</string>
+	<key>logicpro1042.plist</key>
+	<string>https://raw.githubusercontent.com/carlashley/appleLoops/master/lp10_ms3_content_2016/logicpro1042.plist</string>
 	<key>mainstage323.plist</key>
 	<string>https://raw.githubusercontent.com/carlashley/appleLoops/master/lp10_ms3_content_2016/mainstage323.plist</string>
 	<key>mainstage324.plist</key>
 	<string>https://raw.githubusercontent.com/carlashley/appleLoops/master/lp10_ms3_content_2016/mainstage324.plist</string>
 	<key>mainstage330.plist</key>
 	<string>https://raw.githubusercontent.com/carlashley/appleLoops/master/lp10_ms3_content_2016/mainstage330.plist</string>
+	<key>mainstage340.plist</key>
+	<string>https://raw.githubusercontent.com/carlashley/appleLoops/master/lp10_ms3_content_2016/mainstage340.plist</string>
 </dict>
 </plist>
