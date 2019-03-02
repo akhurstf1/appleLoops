@@ -43,6 +43,10 @@ More information about deployment can be found in the [Wiki](../../wiki).
 
 For machines managed with munki, `appleLoops.py` will attempt to find the munki `SoftwareRepoURL` in the configuration for that machine, for example `http://example.org/munki_repo` - make sure the folders `lp10_ms3_content_YYYY are in `munki_repo` (or appropraite folder as per your configuration).`
 
+Local mirror deployments have some caveats as outlined here - https://github.com/carlashley/appleLoops/wiki/Local-Mirror-Deployment
+
+Caching Server deployents also have some caveats as outlined here - https://github.com/carlashley/appleLoops/wiki/Caching-Server-Deployment
+
 ## Other usage
 For a full set of arguments/usage options, `./appleLoops.py --help`
 
