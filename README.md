@@ -2,7 +2,7 @@
 
 ## Requirements
 - python shipped with macOS (typically `python 2.7.10`)
-- Active connection that can access `https://raw.githubusercontent.com` and `http://audiocontentdownload.apple.com`
+- Active connection that can access `https://raw.githubusercontent.com` and `http://audiocontentdownload.apple.com` (if behind proxy/firewall, these should be whitelisted/not blocked for best results)
 
 ## Capabilities
 - Download loops from Apple's servers
